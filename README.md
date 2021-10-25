@@ -1,0 +1,2 @@
+- 👋 Olá, me chamo Leonardo.
+- 📖 Atualmente cursando o 1º semestre de Ciência da Computação no CEUB.
