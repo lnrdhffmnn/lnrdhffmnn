@@ -1,2 +1,2 @@
 - 👋 Olá, me chamo Leonardo.
-- 📖 Atualmente cursando o 2º semestre de Ciência da Computação no CEUB.
+- 📖 Cursando o 2º semestre de Ciência da Computação no CEUB.
