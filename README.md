@@ -1,2 +1,2 @@
 - 👋 Olá, me chamo Leonardo.
-- 📖 Estudante do 7º semestre de Ciência da Computação.
+- 📖 Estudante do último semestre de Ciência da Computação.
